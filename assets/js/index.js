@@ -1,7 +1,7 @@
 /*----------------------------------------
 
     Assignment 009: Quotes app
-    
+
     JS INDEX
     ===================
     00. Pseudo code
