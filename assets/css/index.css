@@ -1,0 +1,47 @@
+/*----------------------------------------
+
+    Assignment 009: Quotes app
+    
+    CSS INDEX
+    ===================
+    00. Global
+    01. Utilities
+    02. Main CSS
+
+----------------------------------------*/
+
+/*----------------------------------------
+  00. Global
+----------------------------------------*/
+
+body {
+  --bs-body-font-family: "Lato", sans-serif;
+  background: linear-gradient(135deg, #0a0a0a 0%, #403e3e 100%);
+}
+
+/*----------------------------------------
+  01. Utilities
+----------------------------------------*/
+
+/*----------------------------------------
+  02. Main CSS
+----------------------------------------*/
+div {
+  max-width: 90%;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  background: rgba(50, 50, 50, 0.8);
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+h1 + p {
+  font-size: 1.875rem;
+}
+#quoteParagraph {
+  font-size: 1.5625rem;
+  font-style: italic;
+}
+#authorParagraph {
+  font-size: 1.5625rem;
+}
